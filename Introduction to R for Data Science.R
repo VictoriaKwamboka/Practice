@@ -5,4 +5,9 @@
 
 log(6.2, base = 10)
 
+## Squareroot of 2
+
+sqrt <- sqrt(2)
+sqrt
+
 
