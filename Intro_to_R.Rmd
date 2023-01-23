@@ -1,0 +1,16 @@
+---
+title: "Intro_to_DS"
+author: "Victoria_K"
+date: "2023-01-23"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+# Solution to Exercises in Chapter 1
+log(6.2, base = 10)
+#### [1] 0.7923917
+
